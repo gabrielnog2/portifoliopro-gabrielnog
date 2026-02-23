@@ -7,25 +7,7 @@
 
 ---
 
-# 🏷️ Portifólio Profissional- Gabriel👨‍💻
 
-
-<table>
-  <tr>
-    <td width="800px">
-      <div align="justify">
-        Este <b>README.md</b> apresenta o detalhamento do meu portifólio profissional desenvolvido para a disciplina de Laboratório de Desenvolvimento de Software do curso de Engenharia de Software na PUC Minas, de forma a servir como referência de documentação para o projeto. 
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://joaopauloaramuni.github.io/image/logo_ES_vertical.png" alt="Logo do Projeto" width="120px"/>
-      </div>
-    </td>
-  </tr> 
-</table>
-
----
 
 ## 🚧 Status do Projeto
 
