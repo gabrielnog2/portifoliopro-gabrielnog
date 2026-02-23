@@ -8,15 +8,11 @@
 
 # 🏷️ Portifólio- Gabriel Nogueira 👨‍💻
 
-> [!NOTE]
-> Breve descrição do projeto. **Foque no principal valor/benefício.**  
-> Crie uma **logo** para o projeto que represente a aplicação em questão.
-
 <table>
   <tr>
     <td width="800px">
       <div align="justify">
-        Este <b>README.md</b> apresenta um template organizado, ideal para servir como referência acadêmica e profissional em projetos de desenvolvimento, desde trabalhos da faculdade até projetos desenvolvidos para etapas técnicas de processos seletivos. Ele reúne as <i>seções essenciais</i> recomendadas pelo <a href="https://github.com/joaopauloaramuni">Prof. Dr. João Paulo Aramuni</a>, permitindo <i>organização clara</i>, <i>documentação eficiente</i> e <i>padronização</i> entre diferentes trabalhos. O objetivo deste esqueleto é <b>facilitar a construção de projetos bem documentados</b>, oferecendo um <i>guia completo</i> que inclui <b>boas práticas</b>, instruções de execução, tecnologias utilizadas, arquitetura, estruturas de pastas, testes, links úteis e orientações para colaboração. Esse template ajuda estudantes a desenvolverem <b>documentação de qualidade profissional</b> desde os primeiros períodos, promovendo <i>clareza</i>, <i>reprodutibilidade</i> e <i>padronização</i> nos projetos.
+        Este <b>README.md</b> apresenta o detalhamento do meu portifólio profissional desenvolvido para a disciplina de Laboratório de Desenvolvimento de Software do curso de Engenharia de Software na PUC Minas, de forma a servir como referência de documentação para o projeto. 
       </div>
     </td>
     <td>
