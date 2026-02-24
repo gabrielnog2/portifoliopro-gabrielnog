@@ -56,8 +56,8 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Demo Online:** [Acesse a Aplicação Web](<link-da-demo-web>)
-  > 💻 **Descrição:** Link para a aplicação em ambiente de produção (Ex: hospedado na Vercel, Netlify ou AWS S3).
+* 🌐 **Demo Online:** [Acesse a Aplicação Web](<https://portifolio-gabrielnog.vercel.app/>)
+  > 💻 **Descrição:** Link para a aplicação em ambiente de produção ( hospedado na Vercel).
 
 ---
 
