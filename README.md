@@ -56,18 +56,18 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Demo Online:** [Acesse a Aplicação Web](https://gabrielnog-portifolio.vercel.app/)
+* 🌐 **Demo Online:** [Acesse a Aplicação Web]([https://gabrielnog-portifolio.vercel.app/](https://portifolio-gabrielnog2.vercel.app/))
   > 💻 **Descrição:** Link para a aplicação em ambiente de produção ( hospedado na Vercel).
 
 ---
 
 ## 📝 Sobre o Projeto
 
-Este projeto consiste no desenvolvimento de um Website de Portfólio Profissional, criado com o objetivo de apresentar minha trajetória acadêmica, habilidades técnicas, projetos desenvolvidos e formas de contato. A motivação para sua criação surgiu da necessidade de consolidar, em um único ambiente, minhas experiências, competências e produções acadêmicas e profissionais. O projeto está sendo conduzido no contexto acadêmico da disciplina de laboratório de desenvolvimento de software, envolvendo etapas que contemplam desde o planejamento e prototipação à implementação e hospedagem. Ele contribui não somente em termos acadêmicos mas também no enriquecimento do posicionamento como profissional na engenharia de software.
+Este projeto consiste no desenvolvimento de um Website de Portfólio Profissional, criado com o objetivo de apresentar minha trajetória acadêmica, habilidades técnicas, projetos desenvolvidos e formas de contato. A motivação para sua criação surgiu da necessidade de consolidar, em um único ambiente, minhas experiências, competências e produções acadêmicas e profissionais. O projeto está sendo conduzido no contexto acadêmico da disciplina de laboratório de desenvolvimento de software, envolvendo etapas que contemplam desde o planejamento e prototipação à implementação e hospedagem. Ele contribui não somente em termos acadêmicos mas também no enriquecimento do posicionamento como profissional na engenharia de software. 
 
 ## ✨ Funcionalidades Principais
 
-O portifólio simula um Walkman dos anos 80 mas com estética cósmica e futurista. Cada seção do portfólio representa uma faixa, navegável por meio de controles simulando botões físicos, promovendo uma experiência interativa diferenciada.
+O portifólio simula um Walkman dos anos 80 mas com estética cósmica e futurista. Cada seção do portfólio representa uma faixa, somente navegável por meio de controles simulando botões físicos, promovendo uma experiência interativa diferenciada.
 
 - 🎵 **Navegação:** Cada seção (Sobre Mim, Projetos, Experiências e Contato) funciona como uma música da fita, permitindo avançar, retroceder e tocar música utilizando botões simulados.
 - 🖥️ **Single Page Application (SPA):** A troca de conteúdo acontece dinamicamente sem recarregamento da página, utilizando gerenciamento de estado com React.
