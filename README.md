@@ -83,7 +83,7 @@ O portifólio simula um Walkman dos anos 80 mas com estética cósmica e futuris
 
 💻 React: Biblioteca principal para a construção da interface.
 
-🎨 CSS3/SVG
+🎨 CSS3
 
 ⚙️ Vite: Ferramenta de build para um desenvolvimento rápido e otimizado.
 
