@@ -68,7 +68,7 @@ Este projeto consiste no desenvolvimento de um Website de Portfólio Profissiona
 
 ## ✨ Funcionalidades Principais
 
-O portifólio simula um Walkman dos anos 80 mas com estética cósmica e futurista. Cada seção do portfólio representa uma faixa, somente navegável por meio de controles simulando botões físicos, promovendo uma experiência interativa diferenciada.
+O portifólio simula um Walkman dos anos 80 mas com estética cósmica e futurista, feito com uso de SVG. Cada seção do portfólio representa uma faixa, somente navegável por meio de controles simulando botões físicos, promovendo uma experiência interativa diferenciada.
 
 - 🎵 **Navegação:** Cada seção (Sobre Mim, Projetos, Experiências e Contato) funciona como uma música da fita, permitindo avançar, retroceder e tocar música utilizando botões simulados- O botão PLAY serve para tocar músicas do Awesome Mix Vol.1, o botão STOP para pausar a música, e os botões REV e FWD para retroceder e avançar tanto de seção do portifólio quanto de música.
 - 🖥️ **Single Page Application (SPA):** A troca de conteúdo acontece dinamicamente sem recarregamento da página, utilizando gerenciamento de estado com React.
