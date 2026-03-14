@@ -75,7 +75,7 @@ O portifólio simula um Walkman dos anos 80 mas com estética cósmica e futuris
 - 🗂️ **Timeline de Projetos:** Exibição organizada dos projetos do mais antigo ao mais recente, contendo descrição, tecnologias utilizadas e link para o repositório no GitHub.
 - 📊 **Relatórios Exportáveis:** Exportação de dados em PDF, CSV ou Excel.
 - 🌍 **Versão Bilíngue (PT/EN):** Suporte a inglês e português.
-- 📬 **Contato Interativo:** Ícones clicáveis para e-mail, LinkedIn e WhatsApp, além de possibilidade funcional para envio de mensagens.
+- 📬 **Contato Interativo:** Ícones clicáveis para e-mail, LinkedIn, além de possibilidade funcional para envio de mensagens.
 
 ---
 
